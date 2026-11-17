@@ -4,56 +4,38 @@
   "minRequiredVersionCode": 1,
   "forceUpdate": false,
   "updateTitle": "Stadia v1.0.0.9 Available",
-  "updateMessage": "Stadia v1.0.0.9 with improved export functionality.",
+  "updateMessage": "Stadia v1.0.0.9 includes the redesigned Total Station A4 PDF Field Book exporter with 3-Pass Virtual Segmenter Engine.",
   "pricing": {
     "currency": "KSh",
-    "promoBanner": "🎉 PIONEERS' OFFER! Get 50% Off for all exports until 31st December.",
+    "promoBanner": "📐 FIELD SEASON SALE: Save KSh 4,000 on Stadia 1K Sheets!",
     "packages": [
       {
-        "id": "single_pass",
-        "title": "Single Export Pass",
-        "subtitle": "1 Export Credit (PDF / CSV / STX)",
-        "priceKsh": 50,
-        "credits": 1,
+        "id": "sheets_20",
+        "title": "Stadia 20 Sheets",
+        "subtitle": "20 Exported Pages (PDF / CSV)",
+        "priceKsh": 250,
+        "credits": 20,
         "isUnlimited": false,
         "isPopular": false
       },
       {
-        "id": "bulk_pack",
-        "title": "5-Pass Value Pack",
-        "subtitle": "5 Export Credits (Save KSh 50)",
-        "priceKsh": 200,
-        "credits": 5,
+        "id": "sheets_150",
+        "title": "Stadia 150 Sheets",
+        "subtitle": "150 Exported Pages (Save KSh 375)",
+        "priceKsh": 1500,
+        "credits": 150,
         "isUnlimited": false,
         "isPopular": true
       },
       {
-        "id": "unlimited_30day",
-        "title": "30-Day Unlimited Pass",
-        "subtitle": "Unlimited PDF & CSV Exports",
-        "priceKsh": 2500,
-        "credits": 249,
-        "isUnlimited": true,
+        "id": "sheets_1k",
+        "title": "Stadia 1K Sheets",
+        "subtitle": "1,000 Exported Pages (Save KSh 4,000)",
+        "priceKsh": 8500,
+        "credits": 1000,
+        "isUnlimited": false,
         "isPopular": false
       }
-    ],
-    "pricingFormulas": {
-      "levellingPdf": {
-        "basePriceKsh": 50,
-        "perExtraBsKsh": 10,
-        "perExtraPageKsh": 25
-      },
-      "levellingCsv": {
-        "basePriceKsh": 50,
-        "baseRowCount": 47,
-        "perExtraRowKsh": 0.5,
-        "perExtraPageKsh": 25
-      },
-      "tsPdf": {
-        "page1Ksh": 100,
-        "tier2PageKsh": 75,
-        "tier3PageKsh": 50
-      }
-    }
+    ]
   }
 }
