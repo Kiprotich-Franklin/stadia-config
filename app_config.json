@@ -31,7 +31,7 @@
         "id": "unlimited_30day",
         "title": "30-Day Unlimited Pass",
         "subtitle": "Unlimited PDF, CSV & STX Exports",
-        "priceKsh": 500,
+        "priceKsh": 2500,
         "credits": 999,
         "isUnlimited": true,
         "isPopular": false
