@@ -36,6 +36,24 @@
         "isUnlimited": true,
         "isPopular": false
       }
-    ]
+    ],
+    "pricingFormulas": {
+      "levellingPdf": {
+        "basePriceKsh": 50,
+        "perExtraBsKsh": 10,
+        "perExtraPageKsh": 25
+      },
+      "levellingCsv": {
+        "basePriceKsh": 50,
+        "baseRowCount": 47,
+        "perExtraRowKsh": 0.5,
+        "perExtraPageKsh": 25
+      },
+      "tsPdf": {
+        "page1Ksh": 100,
+        "tier2PageKsh": 75,
+        "tier3PageKsh": 50
+      }
+    }
   }
 }
