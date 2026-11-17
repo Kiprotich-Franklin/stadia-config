@@ -4,5 +4,38 @@
   "minRequiredVersionCode": 1,
   "forceUpdate": false,
   "updateTitle": "Stadia v1.0.0.9 Available",
-  "updateMessage": "Stadia v1.0.0.9 includes the redesigned Total Station A4 PDF Field Book exporter with 3-Pass Virtual Segmenter Engine, optimized page layout alignment, and direct storage export."
+  "updateMessage": "Stadia v1.0.0.9 includes the redesigned Total Station A4 PDF Field Book exporter with 3-Pass Virtual Segmenter Engine.",
+  "pricing": {
+    "currency": "KSh",
+    "promoBanner": "🎉 SPECIAL OFFER: 20% Off 30-Day Unlimited Pass!",
+    "packages": [
+      {
+        "id": "single_pass",
+        "title": "Single Export Pass",
+        "subtitle": "1 Export Credit (PDF / CSV / STX)",
+        "priceKsh": 50,
+        "credits": 1,
+        "isUnlimited": false,
+        "isPopular": false
+      },
+      {
+        "id": "bulk_pack",
+        "title": "5-Pass Value Pack",
+        "subtitle": "5 Export Credits (Save KSh 50)",
+        "priceKsh": 200,
+        "credits": 5,
+        "isUnlimited": false,
+        "isPopular": true
+      },
+      {
+        "id": "unlimited_30day",
+        "title": "30-Day Unlimited Pass",
+        "subtitle": "Unlimited PDF, CSV & STX Exports",
+        "priceKsh": 500,
+        "credits": 999,
+        "isUnlimited": true,
+        "isPopular": false
+      }
+    ]
+  }
 }
