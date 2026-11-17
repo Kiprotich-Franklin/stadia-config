@@ -7,35 +7,44 @@
   "updateMessage": "Stadia v1.0.0.9 includes the redesigned Total Station A4 PDF Field Book exporter with 3-Pass Virtual Segmenter Engine.",
   "pricing": {
     "currency": "KSh",
-    "promoBanner": "📐 FIELD SEASON SALE: Save KSh 4,000 on Stadia 1K Sheets!",
-    "packages": [
-      {
-        "id": "sheets_20",
-        "title": "Stadia 20 Sheets",
-        "subtitle": "20 Exported Pages (PDF / CSV)",
-        "priceKsh": 250,
-        "credits": 20,
-        "isUnlimited": false,
-        "isPopular": false
+    "promoBanner": "📐 FIELD SEASON SALE: Dynamic Bulk Sheet Rates!",
+    "bookPricing": {
+      "twoPegPdf": {
+        "sheets20Ksh": 50,
+        "sheets150Ksh": 150,
+        "sheets1kKsh": 800,
+        "payg": { "p1": 10.0, "p2_20": 3.0, "p21plus": 1.5 }
       },
-      {
-        "id": "sheets_150",
-        "title": "Stadia 150 Sheets",
-        "subtitle": "150 Exported Pages (Save KSh 375)",
-        "priceKsh": 1500,
-        "credits": 150,
-        "isUnlimited": false,
-        "isPopular": true
+      "twoPegCsv": {
+        "sheets20Ksh": 50,
+        "sheets150Ksh": 150,
+        "sheets1kKsh": 800,
+        "payg": { "p1": 10.0, "p2_20": 2.5, "p21plus": 1.5 }
       },
-      {
-        "id": "sheets_1k",
-        "title": "Stadia 1K Sheets",
-        "subtitle": "1,000 Exported Pages (Save KSh 4,000)",
-        "priceKsh": 8500,
-        "credits": 1000,
-        "isUnlimited": false,
-        "isPopular": false
+      "levellingPdf": {
+        "sheets20Ksh": 50,
+        "sheets150Ksh": 300,
+        "sheets1kKsh": 450,
+        "payg": { "p1": 10.0, "p2_20": 3.0, "p21plus": 1.5 }
+      },
+      "levellingCsv": {
+        "sheets20Ksh": 45,
+        "sheets150Ksh": 250,
+        "sheets1kKsh": 350,
+        "payg": { "p1": 10.0, "p2_20": 2.5, "p21plus": 1.5 }
+      },
+      "tsPdf": {
+        "sheets20Ksh": 500,
+        "sheets150Ksh": 2000,
+        "sheets1kKsh": 10000,
+        "payg": { "p1": 75.0, "p2_20": 50.0, "p21plus": 20.0 }
+      },
+      "tsCsv": {
+        "sheets20Ksh": 50,
+        "sheets150Ksh": 100,
+        "sheets1kKsh": 800,
+        "payg": { "p1": 50.0, "p2_20": 25.0, "p21plus": 15.0 }
       }
-    ]
+    }
   }
 }
