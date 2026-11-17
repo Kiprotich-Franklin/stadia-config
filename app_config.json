@@ -4,7 +4,7 @@
   "minRequiredVersionCode": 1,
   "forceUpdate": false,
   "updateTitle": "Stadia v1.0.0.9 Available",
-  "updateMessage": "Stadia v1.0.0.9 includes the redesigned Total Station A4 PDF Field Book exporter with 3-Pass Virtual Segmenter Engine.",
+  "updateMessage": "Stadia v1.0.0.9 with improved export functionality.",
   "pricing": {
     "currency": "KSh",
     "promoBanner": "🎉 SPECIAL OFFER: 20% Off 30-Day Unlimited Pass!",
