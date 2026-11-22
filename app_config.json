@@ -10,40 +10,40 @@
     "promoBanner": "📐 FIELD SEASON SALE: Dynamic Bulk Sheet Rates!",
     "bookPricing": {
       "twoPegPdf": {
-        "sheets20Ksh": 50,
-        "sheets150Ksh": 150,
-        "sheets1kKsh": 800,
-        "payg": { "p1": 10.0, "p2_20": 3.0, "p21plus": 1.5 }
+        "sheets20Ksh": 50.00,
+        "sheets150Ksh": 150.00,
+        "sheets1kKsh": 800.00,
+        "payg": { "p1": 10.00, "p2_20": 3.00, "p21plus": 1.50 }
       },
       "twoPegCsv": {
-        "sheets20Ksh": 50,
-        "sheets150Ksh": 150,
-        "sheets1kKsh": 800,
-        "payg": { "p1": 10.0, "p2_20": 2.5, "p21plus": 1.5 }
+        "sheets20Ksh": 50.00,
+        "sheets150Ksh": 150.00,
+        "sheets1kKsh": 800.00,
+        "payg": { "p1": 10.00, "p2_20": 2.50, "p21plus": 1.50 }
       },
       "levellingPdf": {
-        "sheets20Ksh": 50,
-        "sheets150Ksh": 300,
-        "sheets1kKsh": 450,
-        "payg": { "p1": 10.0, "p2_20": 3.0, "p21plus": 1.5 }
+        "sheets20Ksh": 50.00,
+        "sheets150Ksh": 300.00,
+        "sheets1kKsh": 450.00,
+        "payg": { "p1": 10.00, "p2_20": 3.00, "p21plus": 1.50 }
       },
       "levellingCsv": {
-        "sheets20Ksh": 45,
-        "sheets150Ksh": 250,
-        "sheets1kKsh": 350,
-        "payg": { "p1": 10.0, "p2_20": 2.5, "p21plus": 1.5 }
+        "sheets20Ksh": 45.00,
+        "sheets150Ksh": 250.00,
+        "sheets1kKsh": 350.00,
+        "payg": { "p1": 10.00, "p2_20": 2.50, "p21plus": 1.50 }
       },
       "tsPdf": {
-        "sheets20Ksh": 500,
-        "sheets150Ksh": 2000,
-        "sheets1kKsh": 10000,
-        "payg": { "p1": 75.0, "p2_20": 50.0, "p21plus": 20.0 }
+        "sheets20Ksh": 500.00,
+        "sheets150Ksh": 2000.00,
+        "sheets1kKsh": 10000.00,
+        "payg": { "p1": 75.00, "p2_20": 50.00, "p21plus": 20.00 }
       },
       "tsCsv": {
-        "sheets20Ksh": 50,
-        "sheets150Ksh": 100,
-        "sheets1kKsh": 800,
-        "payg": { "p1": 50.0, "p2_20": 25.0, "p21plus": 15.0 }
+        "sheets20Ksh": 50.00,
+        "sheets150Ksh": 100.00,
+        "sheets1kKsh": 800.00,
+        "payg": { "p1": 50.00, "p2_20": 25.00, "p21plus": 15.00 }
       }
     }
   }
