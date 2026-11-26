@@ -1,0 +1,17 @@
+{
+  "latestVersionCode": 9,
+  "latestVersionName": "1.0.0.9",
+  "releaseDate": "November 22, 2026",
+  "title": "Stadia Field Survey Suite v1.0.0.9 Release Notes",
+  "features": [
+    "📐 Total Station A4 PDF Exporter: Redesigned with 3-Pass Virtual Segmenter Engine and neat DMS angle spacing.",
+    "🛒 Multi-Item Shopping Cart: Full-screen Items Checkout Sub-Screen with 1-hour persistent cart auto-expiry.",
+    "💳 Payment Options: Integrated Safaricom M-Pesa Xpress and Google Play Billing v7.1.1 (Consumable Sheet Handling).",
+    "🌍 Smart Region Auto-Detection: Automatic currency (KSh, USD, EUR, GBP) and default payment mode selection.",
+    "📌 MS Excel-Style Freeze Panes: Pinned Station & Target columns during horizontal observation table panning.",
+    "🔍 Pinch-to-Zoom: Pinch gesture zooming on all TS and Levelling observation tables with floating 100% Reset Pill.",
+    "⌨️ Stadia Keypad v2: Top-row navigation bar and centered live column name preview bar.",
+    "🔔 System Bar Notifications: Direct 'Open File' and 'Share' action buttons for exported PDF/CSV reports.",
+    "🎁 Promo Code Engine: Integrated BPC112026 promo code for unlimited sheet export authorization."
+  ]
+}
