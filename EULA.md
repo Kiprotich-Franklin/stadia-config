@@ -1,8 +1,8 @@
 # END USER LICENSE AGREEMENT (EULA)
 
-**Last Updated: November 26, 2026**
+**Last Updated: November 22, 2026**
 
-This End User License Agreement ("Agreement" or "EULA") is a binding legal contract between Cheserton Geospatial Solutions ("Company", "we", "us", or "our") and you ("User", "Licensee", or "you") regarding your access to and use of the **Stadia** mobile application, software, data structures, and associated documentation (collectively, the "Application").
+This End User License Agreement ("Agreement" or "EULA") is a binding legal contract between **Cheserton Geospatial Solutions** ("Company", "we", "us", or "our") and you ("User", "Licensee", or "you") regarding your access to and use of the **Stadia** mobile application, software, data structures, and associated documentation (collectively, the "Application").
 
 PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THE APPLICATION. BY DOWNLOADING, INSTALLING, OR USING STADIA, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA.
 
@@ -36,6 +36,7 @@ You agree that you shall not, directly or indirectly:
 2. **Paid Features & Exports**: Unlocking advanced features, unwatermarked PDF/CSV report exports, or purchasing sheet recharge packages requires payment via Safaricom M-Pesa Xpress STK Push or Google Play Billing (v7.0+).
 3. **Google Play Billing**: When paying via Google Play Billing, payment processing is handled exclusively by Google LLC as Merchant of Record. Stadia does not store, transmit, or access credit/debit card numbers, passwords, or bank account credentials.
 4. **Refund Policy**: All digital purchases, M-Pesa export fees, and sheet package purchases are consumed upon export generation in accordance with digital content supply terms.
+5. **Price Modifications & Sole Discretion**: The Company reserves the right, at its sole and absolute discretion, to modify, revise, adjust, restructure, or update the pricing, sheet package rates, credit tiers, and fee structures for any or all in-app products and services offered within the Application at any time without prior notice. Any price revisions shall become effective immediately upon publication within the Application or on the Company’s remote configuration servers.
 
 ---
 
