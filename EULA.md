@@ -1,8 +1,8 @@
 # END USER LICENSE AGREEMENT (EULA)
 
-*Last Updated: November 26, 2026*
+**Last Updated: November 26, 2026**
 
-This End User License Agreement ("Agreement" or "EULA") is a binding legal contract between **Stadia Software Systems** ("Company", "we", "us", or "our") and you ("User", "Licensee", or "you") regarding your access to and use of the **Stadia** mobile application, software, data structures, and associated documentation (collectively, the "Application").
+This End User License Agreement ("Agreement" or "EULA") is a binding legal contract between Cheserton Geospatial Solutions ("Company", "we", "us", or "our") and you ("User", "Licensee", or "you") regarding your access to and use of the **Stadia** mobile application, software, data structures, and associated documentation (collectively, the "Application").
 
 PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THE APPLICATION. BY DOWNLOADING, INSTALLING, OR USING STADIA, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA.
 
@@ -62,7 +62,7 @@ You agree that you shall not, directly or indirectly:
 ---
 
 ### 8. INTELLECTUAL PROPERTY RIGHTS
-The Application, including its source code, UI designs, logos, custom typography, formulas, and visual branding, is the exclusive intellectual property of Stadia Software Systems.
+The Application, including its source code, UI designs, logos, custom typography, formulas, and visual branding, is the exclusive intellectual property of Cheserton Geospatial Solutions.
 
 ---
 
@@ -80,5 +80,5 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COMPANY
 ### 11. CONTACT INFORMATION
 For support, waivers, or privacy rights requests:
 * **Stadia Support & Privacy Team**
-* **Email**: support@stadiasurveys.co.ke / info@stadiasurveys.co.ke
+* **Email**: kiprotichfranklin4@gmail.com
 * **Website**: https://stadiasurveys.co.ke
