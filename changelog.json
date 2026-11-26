@@ -4,7 +4,6 @@
   "releaseDate": "November 22, 2026",
   "title": "Stadia Field Survey Suite v1.0.0.9 Release Notes",
   "features": [
-    "📐 Total Station A4 PDF Exporter: Redesigned with 3-Pass Virtual Segmenter Engine and neat DMS angle spacing.",
     "🛒 Multi-Item Shopping Cart: Full-screen Items Checkout Sub-Screen with 1-hour persistent cart auto-expiry.",
     "💳 Payment Options: Integrated Safaricom M-Pesa Xpress and Google Play Billing v7.1.1 (Consumable Sheet Handling).",
     "🌍 Smart Region Auto-Detection: Automatic currency (KSh, USD, EUR, GBP) and default payment mode selection.",
