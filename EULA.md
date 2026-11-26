@@ -1,6 +1,6 @@
 # END USER LICENSE AGREEMENT (EULA)
 
-**Last Updated: November 26, 2026**
+*Last Updated: November 26, 2026*
 
 This End User License Agreement ("Agreement" or "EULA") is a binding legal contract between **Stadia Software Systems** ("Company", "we", "us", or "our") and you ("User", "Licensee", or "you") regarding your access to and use of the **Stadia** mobile application, software, data structures, and associated documentation (collectively, the "Application").
 
