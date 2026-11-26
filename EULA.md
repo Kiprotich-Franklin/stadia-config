@@ -10,7 +10,7 @@ PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING TH
 
 ### 1. LICENSE GRANT & SCOPE
 Subject to your compliance with this Agreement, the Company grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to:
-1. Download, install, and execute the Application on personal or company-owned mobile devices, smartphones, tablets, and specialized field data loggers (e.g., South MM50, CHCNAV, FOIF, Hi-Target controllers) running supported versions of the Android operating system.
+1. Download, install, and execute the Application on personal or company-owned mobile devices, smartphones, tablets, and specialized field data loggers running supported versions of the Android operating system.
 2. Use the Application solely for your internal professional land surveying, civil engineering, construction, and field calculation purposes.
 
 ---
