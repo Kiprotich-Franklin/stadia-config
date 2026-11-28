@@ -22,7 +22,8 @@
         "vendorName": "Nairobi Survey Equipment Ltd",
         "paybillNumber": "522522",
         "accountName": "NAIROBI-SURVEY",
-        "tillNumber": "888123"
+        "tillNumber": "888123",
+        "enabled": false
       }
     ]
   },
