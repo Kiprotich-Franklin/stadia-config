@@ -6,6 +6,26 @@
   "updateTitle": "Stadia v1.0.0.9 Available",
   "updateMessage": "Stadia v1.0.0.9 includes the redesigned Total Station A4 PDF Field Book exporter with 3-Pass Virtual Segmenter Engine.",
   "mpesaWebhookUrl": "https://script.google.com/macros/s/AKfycbwgYwN3JapWaG5LbCNiTsSEDJkVPmysS8jxNC6XHWO0ZqqDgf3HAssm3cX8xAZYYjkS/exec",
+  "paymentChannels": {
+    "isDarajaLive": false,
+    "activeShortcode": "174379",
+    "primaryChannel": {
+      "vendorId": "STADIA_HQ",
+      "vendorName": "Stadia Software Systems",
+      "paybillNumber": "400200",
+      "accountName": "STD-SHEETS",
+      "tillNumber": "9876543"
+    },
+    "vendorChannels": [
+      {
+        "vendorId": "VND_NRB_01",
+        "vendorName": "Nairobi Survey Equipment Ltd",
+        "paybillNumber": "522522",
+        "accountName": "NAIROBI-SURVEY",
+        "tillNumber": "888123"
+      }
+    ]
+  },
   "validPromoCodes": [
     "BPC112026"
   ],
