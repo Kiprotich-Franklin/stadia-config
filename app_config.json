@@ -16,16 +16,7 @@
       "accountName": "Stadia Field Sheets",
       "tillNumber": "1939370"
     },
-    "vendorChannels": [
-      {
-        "vendorId": "VND_NRB_01",
-        "vendorName": "Nairobi Survey Equipment Ltd",
-        "paybillNumber": "522522",
-        "accountName": "NAIROBI-SURVEY",
-        "tillNumber": "888123",
-        "enabled": false
-      }
-    ]
+    "vendorChannels": []
   },
   "validPromoCodes": [
     "BPC112026"
